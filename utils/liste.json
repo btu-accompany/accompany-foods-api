@@ -1,0 +1,64 @@
+[{
+        "_id": "627a5661f5c66154c93d71f1",
+        "date": "2022-05-04T00:00:00.000Z",
+        "AnaYemek": "SEBZE TÜRLÜ (241 KAL",
+        "Corba": "KREMALI HAVUÇ ÇORBA (108 KAL)",
+        "YrdYemek": "SU BÖREĞİ (373 KAL)",
+        "Kap_4": "KAZANDİBİ (156 KAL)",
+        "__v": 0
+    },
+    {
+        "_id": "627a56e7f398ecd68eb25552",
+        "date": "2022-05-05T00:00:00.000Z",
+        "AnaYemek": "EKŞİLİ KÖFTE (235 KAL)",
+        "Corba": "EZOGELİN ÇORBA ( 96 KAL)",
+        "YrdYemek": "PEYNİRLİ MAKARNA (262 KAL)",
+        "Kap_4": "MEYVE (78 KAL)",
+        "__v": 0
+    },
+    {
+        "_id": "627a5736f398ecd68eb25554",
+        "date": "2022-05-06T00:00:00.000Z",
+        "AnaYemek": "ET DÖNER (330 KAL)",
+        "Corba": "MURADİYE ÇORBA (95 KAL)",
+        "YrdYemek": "PİRİNÇ PİLAVI (290 KAL)",
+        "Kap_4": "AYRAN (48 KAL)",
+        "__v": 0
+    },
+    {
+        "_id": "627a5750f398ecd68eb25556",
+        "date": "2022-05-07T00:00:00.000Z",
+        "AnaYemek": "NOHUT YEMEĞİ (256 KAL)",
+        "Corba": "ARPA ŞEHRİYE ÇORBA (119 KAL)",
+        "YrdYemek": "BULGUR PİLAVI (224 KAL)",
+        "Kap_4": "SÜTLAÇ (185 KAL)",
+        "__v": 0
+    },
+    {
+        "_id": "627a5772f398ecd68eb25558",
+        "date": "2022-05-08T00:00:00.000Z",
+        "AnaYemek": "PİLİÇ FIRIN BUT (365 KAL)",
+        "Corba": "KREMALI MANTAR ÇORBA (85 KAL)",
+        "YrdYemek": "PİRİNÇ PİLAVI (290 KAL)",
+        "Kap_4": "KASE YOĞURT (65 KAL)",
+        "__v": 0
+    },
+    {
+        "_id": "627a57b5f398ecd68eb2555a",
+        "date": "2022-05-09T00:00:00.000Z",
+        "AnaYemek": "YOĞURTLU ISPANAK (162 KAL)",
+        "Corba": "MERCİMEK ÇORBASI ( 96 KAL)",
+        "YrdYemek": "SU BÖREĞİ (373 KAL)",
+        "Kap_4": "BÜLBÜL YUVASI (395 KAL)",
+        "__v": 0
+    },
+    {
+        "_id": "627a57e5f398ecd68eb2555c",
+        "date": "2022-05-10T00:00:00.000Z",
+        "AnaYemek": "ROSTO KÖFTE (165 KAL)",
+        "Corba": "EZOGELİN ÇORBA ( 96 KAL)",
+        "YrdYemek": "PEYNİRLİ MAKARNA (262 KAL)",
+        "Kap_4": "AYRAN (48 KAL)",
+        "__v": 0
+    }
+]
