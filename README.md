@@ -1,1 +1,1 @@
-# https://accompany-foods.herokuapp.com/
+# https://accompany-foodlist.herokuapp.com/
